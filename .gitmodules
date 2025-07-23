@@ -1,0 +1,9 @@
+[submodule "servicios/web"]
+	path = servicios/web
+	url = https://github.com/DavidBarbosag/BuscaMinasXtremeFront
+[submodule "servicios/game"]
+	path = servicios/game
+	url = https://github.com/DavidBarbosag/GameServiceModule.git
+[submodule "servicios/voice"]
+	path = servicios/voice
+	url = https://github.com/DavidBarbosag/voiceServiceModule.git
