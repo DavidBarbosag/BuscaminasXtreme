@@ -15,12 +15,12 @@ This project is divided into independent modules that communicate with each othe
 
 ---
 
-##  Estructura del Proyecto
+##  Project Structure
 
 ```bash
 dinamicboard-central/
-├── servicios/
-│   ├── juego/       # Game logic and state synchronization
+├── services/
+│   ├── game/       # Game logic and state synchronization
 │   ├── chat/         # Real-time messaging service
 │   └── web/          # web
 ├── .gitmodules       
